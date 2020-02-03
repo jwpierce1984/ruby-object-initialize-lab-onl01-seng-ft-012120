@@ -4,7 +4,6 @@ attr_reader :breed
   
   def initialize (name, breed)
     @name = name
-    @breed = breed
   end
   
   def breed=("Mutt")
